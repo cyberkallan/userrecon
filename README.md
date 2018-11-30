@@ -1,5 +1,5 @@
 # UserRecon v1.0
-# Author: @thelinuxchoice
+# Author: @linux_choice
 # https://github.com/thelinuxchoice/userrecon
 
 Find usernames across over 75 social networks
