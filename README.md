@@ -16,4 +16,4 @@ This is useful if you are running an investigation to determine the usage of the
 for more visit my youtube channel and explore the hacking world
 
 
-![ur](PicsA(https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png)
+![ur](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png)
